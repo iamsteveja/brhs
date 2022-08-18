@@ -1,3 +1,5 @@
 <script>
-<!-- test test test -->
+  <!-- 
+  alert('test')
+  //-->
 </script>
